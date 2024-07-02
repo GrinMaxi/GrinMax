@@ -5,9 +5,11 @@ import "fmt"
 func main() {
 	// fmt.Println("Java")
 	// fmt.Println("Swift")
-	fmt.Println("Go") // fmt.Println("C++")
+	// fmt.Println("Go") 
+	// fmt.Println("C++")
 	// fmt.Println("C#")
-	fmt.Println("Python") // fmt.Println("JavaScript")
+	fmt.Println("Python") 
+	// fmt.Println("JavaScript")
 	fmt.Println("Здравствуй,\nИосиф!")
 	fmt.Println("other")
 	// end
